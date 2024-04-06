@@ -1,0 +1,14 @@
+.glassmorphism {
+    background: rgba(0, 100, 0, 0.5);
+    backdrop-filter: blur(15);
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+}
+.glassmorphism1 {
+    background: rgba(255,255,255,0.3);
+    backdrop-filter: blur(15);
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+}

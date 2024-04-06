@@ -1,0 +1,18 @@
+
+.slidereact{
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 4.4rem ;
+    text-align: center;
+    background-color: rgb(62, 214, 138) ;
+}
+/* Cibler la flèche précédente */
+.slick-prev {
+    color: red; /* Changer la couleur de la flèche précédente */
+}
+
+/* Cibler la flèche suivante */
+.slick-next {
+    color: blue; /* Changer la couleur de la flèche suivante */
+}
+
